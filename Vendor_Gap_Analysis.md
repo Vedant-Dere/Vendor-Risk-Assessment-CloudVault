@@ -1,6 +1,6 @@
 # Third-Party Vendor Risk Assessment: Gap Analysis
 **Target Vendor:** CloudVault Inc.
-**Assessor:** [Your Name]
+**Assessor:** Vedant Dere
 **Date:** August 2026
 **Framework Alignment:** SOC 2 (Security, Availability, Confidentiality) & ISO 27001
 
